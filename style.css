@@ -1,0 +1,36 @@
+h1 {
+    background-color: lavender;
+    color: black;
+    text-align: center;
+}
+
+* {
+    border: solid;
+}
+
+.HTML{
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+}
+
+.design{
+    background-color: orchid;
+    display: flex;
+    flex-wrap: flex;
+    justify-content: center;
+}
+
+.design1{
+    background-color:darkcyan;
+    display: flex;
+    flex-wrap: flex;
+    justify-content: center;
+}
+
+.design2{
+    background-color: orchid;
+    display: flex;
+    flex-wrap: flex;
+    justify-content: center;
+}
